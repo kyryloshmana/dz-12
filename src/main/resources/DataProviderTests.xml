@@ -1,0 +1,10 @@
+<suite name = "Use test automation">
+    <test name ="tests using data provider">
+        <classes>
+            <class name = "testsDataProvider.ManManagerDataProviderTest"/>
+            <class name = "testsDataProvider.RegisterManagerDataProviderTest"/>
+            <class name = "testsDataProvider.WomanManagerDataProviderTest"/>
+            <class name = "testsDataProvider.CreatePersonDataProvideTest"/>
+        </classes>
+    </test>
+</suite>
