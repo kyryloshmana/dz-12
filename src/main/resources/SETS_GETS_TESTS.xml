@@ -1,0 +1,15 @@
+<suite name = "Use test automation">
+    <groups>
+        <run>
+            <include name = "gets_sets"/>
+        </run>
+    </groups>
+   <test name ="The Gets and the Sets tests">
+        <classes>
+            <class name = "tests.CreatePersonsTest"/>
+        </classes>
+
+    </test>
+
+
+</suite>
